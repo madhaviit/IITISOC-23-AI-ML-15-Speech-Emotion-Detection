@@ -11,3 +11,4 @@ Mentor Repository for Team 15 of IITISoC '23 AI/ML domain.
 - Ayush Awasthi
 - [Atharva Nanoti](https://github.com/nanotcodes)
 - [Jasmer Singh Sanjotra](https://github.com/TheAlphaJas)
+- [Shaurya khetarpal](https://github.com/Shauryanoobb)

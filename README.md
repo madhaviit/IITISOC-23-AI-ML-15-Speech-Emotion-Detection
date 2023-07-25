@@ -12,3 +12,11 @@ Mentor Repository for Team 15 of IITISoC '23 AI/ML domain.
 - [Atharva Nanoti](https://github.com/nanotcodes)
 - [Jasmer Singh Sanjotra](https://github.com/TheAlphaJas)
 - [Shaurya khetarpal](https://github.com/Shauryanoobb)
+
+## How to use 
+
+- Clone the repository to your local machine or download and extract the ZIP file.
+```
+git clone https://github.com/madhaviit/IITISOC-23-AI-ML-15-Speech-Emotion-Detection/
+```
+- 

@@ -1,0 +1,8 @@
+streamlit
+librosa
+numpy
+keras
+sounddevice
+scipy
+tempfile
+tensorflow
